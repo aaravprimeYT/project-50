@@ -1,0 +1,23 @@
+h1{
+    color: lightcoral;
+}
+.Header{
+    display:flex;
+    justify-content: space-between;
+    background-color: dimgray;
+}
+.everything{
+    background-color: lightskyblue;
+}
+
+.Menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: right;
+}
+
+.origami{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
